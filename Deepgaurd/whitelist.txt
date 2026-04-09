@@ -1,0 +1,21 @@
+# Deepgaurd Whitelist - IPs that will NEVER be blocked
+# Add trusted IPs here (one per line)
+
+# Localhost
+127.0.0.1
+
+# Common Router/Gateway IPs
+
+192.168.1.1
+192.168.0.1
+10.0.0.1
+
+# DNS Servers
+8.8.8.8
+8.8.4.4
+1.1.1.1
+1.0.0.1
+
+# Add your trusted IPs below:
+# 203.0.113.10
+# 198.51.100.25
